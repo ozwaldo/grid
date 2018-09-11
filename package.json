@@ -1,0 +1,11 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "Sistema de columnas.",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "node-sass sass/main.scss css/estilo.css -w"
+  },
+  "author": "Oswaldo",
+  "license": "ISC"
+}
